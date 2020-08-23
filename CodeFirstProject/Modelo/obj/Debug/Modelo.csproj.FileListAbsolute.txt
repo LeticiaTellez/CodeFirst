@@ -1,0 +1,10 @@
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\Modelo.dll
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\Modelo.pdb
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\obj\Debug\Modelo.dll
+C:\Users\leticia.tellez\Source\Repos\CodeFirst\CodeFirstProject\Modelo\obj\Debug\Modelo.pdb
